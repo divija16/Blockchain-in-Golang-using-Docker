@@ -78,10 +78,10 @@ $ docker run --rm -p 9000:5000 blockchain
 $ docker run --rm -p 9001:5000 blockchain
 $ docker run --rm -p 9002:5000 blockchain
 ```
-
+<!-- 
 # Contributors
 
-- Divija Swetha Gadiraju <dgadiraj@purdue.edu>
+- Divija Swetha Gadiraju <dgadiraj@purdue.edu> -->
 
 # License
 [MIT LICENSE](LICENSE)
