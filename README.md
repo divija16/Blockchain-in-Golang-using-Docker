@@ -1,7 +1,7 @@
 
 # Blockchain in Golang using Docker
 
-The link to the medium article explaining the code is [here](https://divijaswetha.medium.com/blockchain-in-golang-using-docker-f610178a449b)
+The link to the medium article explaining the code is [here]((https://blog.devgenius.io/blockchain-in-golang-using-docker-f610178a449b))
 
 # Installation and Usage
 
